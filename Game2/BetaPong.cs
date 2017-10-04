@@ -11,6 +11,8 @@ namespace Game2
         SpriteBatch spriteBatch;
         Texture2D Kyogre, Groudon, Vaporeon, Flareon, Squirtle, Charmander, Background, Health, Ball, MasterBallRed, Ball2Red, Ball3Red, MasterBallBlue, Ball2Blue, Ball3Blue, Title1, Title2, RedVictory, BlueVictory; //Declaration of parts that need to be drawn
         /*All product names, logos, and brands are property of their respective owners. All company, product and service names used in this game are for fun purposes only.*/
+        //lalala
+        int LeftUselessInteger;
         int LeftPaddleYPosition = 192;
         int RightPaddleYPosition = 192;
         double ballYPosition = 232;
